@@ -1,0 +1,16 @@
+cube,part,qty,unit_price_usd_2015,source_type,note
+brain,C.H.I.P. board (Next Thing Co.),1,9.00,Kickstarter,single source - discontinued 2018
+brain,HDMI DIP or VGA DIP,1,15.00,Next Thing Co.,"VGA DIP ~10 USD; composite (PAL) works without DIP"
+brain,USB-A to keyed 4-pin magnetic adapter,1,2.50,AliExpress,keyed USB face
+all,8-pin magnetic pogo connector pair 2.5mm,6,3.00,AliExpress,one pair per used face; verify rating >=1.5A/pin
+all,Neodymium disc magnet N42 6x2mm,4,0.08,AliExpress,fully encapsulated - EN 71-1
+all,24C02 I2C EEPROM SOIC-8,1,0.15,Digikey,cube ID 0x50-0x57
+all,PLA shell 50mm 3D print,1,2.50,own printer,~40 g material
+power,LiPo 3.7V 2000mAh with PCM,1,6.00,AliExpress,UN 38.3 report required for shipping
+power,Boost 5V 2A + charger module (e.g. IP5306),1,1.50,AliExpress,
+power,Polyfuse 2A,1,0.10,Digikey,
+usb,USB 2.0 hub IC FE1.1s board,1,1.20,AliExpress,4 ports
+audio,PAM8403 amplifier + 28mm speaker,1,1.20,AliExpress,limit volume in software
+sensor,BH1750 light + LM75 temp (I2C),1,2.00,AliExpress,
+led,8x8 LED matrix + HT16K33 I2C driver,1,3.00,Adafruit/AliExpress,
+button,4 tactile buttons + PCF8574 I2C expander,1,1.00,AliExpress,
